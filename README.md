@@ -1,4 +1,20 @@
-### Hi there 👋
+<h3 align="center">👋   Hello! My name is TUNA 🐟 DRIVER   👋 <br/> "Tuna Community" </h3>
+
+<div id="badges" align="center">
+  <a href="https://twitter.com/TunaDriverToken">
+    <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://youtube.com/@TunaCommunity">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://facebook.com/tunacommunity">
+    <img src="https://img.shields.io/badge/Facebook-gray?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://t.me/TunaDriverToken">
+    <img src="https://img.shields.io/badge/Telegram-yellow?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <br/>
+</div>
 
 
 Dive into the vibrant community of $TUNA—a playful, innovative meme coin designed for the driving enthusiasts and fun-lovers alike. Here, every transaction is a journey, and every trade fuels a bit more joy into our community.
